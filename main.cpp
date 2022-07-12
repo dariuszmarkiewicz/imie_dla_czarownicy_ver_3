@@ -28,7 +28,7 @@ int main()
                 {
                     if(int(ps[j])==int(im[0]))
                         {
-                            if((ps.size()-j>=im.size())&&(ps.size()-j>=11))
+                            if((ps.size()-j>=11))
                                 {
                                     cout << "TAK" << endl;
                                     break;
